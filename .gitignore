@@ -1,0 +1,5 @@
+*.meta
+Logs/
+Packages/
+Library/PackageCache/
+Temp/
